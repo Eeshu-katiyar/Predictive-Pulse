@@ -1,1 +1,2 @@
 # Predictive-Pulse
+Predictive Pulse is a project focused on using machine learning to predict blood pressure levels. The idea is to create a tool that can analyze personal health data, such as age, weight, lifestyle habits, and medical history, to estimate a person's blood pressure. This tool could help healthcare professionals identify potential health risks early and take preventive actions. The project aims to make blood pressure prediction more accessible, accurate, and efficient by leveraging modern technology.
